@@ -16,5 +16,5 @@ Double-click your desired colorscheme and let FlashDevelop do the work. Alternat
 
 ### Not-as-easymode
 
-1. Open the Select UI Theme tool in FlashDevelop `Tools &rarr; Select UI Theme...`.
+1. Open the Select UI Theme tool in FlashDevelop `Tools → Select UI Theme...`.
 2. Select your desired colorscheme.
